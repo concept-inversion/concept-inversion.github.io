@@ -16,7 +16,7 @@ The theme of my research is **system for machine learning and machine learning f
 I enjoy hiking, playing basketball and football during my free time.   
 
 
-[[CV]](/files/cv.pdf)
+[[CV]](/files/cv.pdf) [[google scholar]](https://scholar.google.com/citations?user=4jtGttIAAAAJ)
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=concept-inversion&label=Profile%20views&color=0e75b6&style=plastic" alt="concept-inversion" /> 
