@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD candidate in Computer Engineering at Stevens Institute of Technology. My research interests includes GPU accelerated high performance computing, computer architecture, machine learning, and large graph analytics. I am honored to be advised by Professor [Hang Liu](https://personal.stevens.edu/~hliu77/). I completed my undergraduate from Tribhuvan University, Nepal where my undergraduate advisor was Professor [Subarna Shakya](http://doece.pcampus.edu.np/index.php/prof-dr-subarna-shakya/).
+I am a PhD student in Computer Engineering at Rutgers University. My research interests includes GPU accelerated high performance computing, computer architecture, machine learning, and large graph analytics. I am honored to be advised by Professor [Hang Liu](https://personal.stevens.edu/~hliu77/). I completed my undergraduate from Tribhuvan University, Nepal where my undergraduate advisor was Professor [Subarna Shakya](http://doece.pcampus.edu.np/index.php/prof-dr-subarna-shakya/).
 You can see my publications in the `publication` tab or at [google scholar](https://scholar.google.com/citations?user=4jtGttIAAAAJ) for my most recent publications.
 
 The theme of my research is **system for machine learning and machine learning for system**.  
@@ -23,6 +23,7 @@ I enjoy hiking, playing basketball and football during my free time.
 ### Recent News!!!
 ---
 
+- <span style="color:red"> [Jan. 2023]</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transferred to the Rutgers University for the rest of my PhD journey. 
 - <span style="color:red"> [Oct. 2022]</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:blue">**Honored to receive the 2022 IEEE TCHPC Student Travel Award for SC'22 conference.**</span>
 - <span style="color:red"> [Aug. 2022]</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at **SC'22** conference on accelerating ML-based micro-architecture simulation.
 - <span style="color:red"> [Sep. 2022]</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at **EuroSys'23** conference on temporal graph random walk.
