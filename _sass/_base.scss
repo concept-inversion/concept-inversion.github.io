@@ -336,3 +336,11 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 //   font-size: 14px;
 }
 
+table, th, td {
+  border-collapse: collapse; /* remove lines from the table */
+}
+
+td ul li {
+  list-style-type: circle; /* bullet points */
+}
+
