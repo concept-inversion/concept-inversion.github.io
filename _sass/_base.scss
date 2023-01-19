@@ -321,13 +321,14 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
    flex-wrap: wrap;
 }
 .date {
-    margin-right: 20px;
+    margin-right: 2px;
    color: red;
 }
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* set the minimum and maximum width for each column */
 }
+
 .text-paragraph {
   width: 350px;
   padding: 10px;
@@ -344,6 +345,6 @@ table, th, td {
 td ul li {
    width: 200px;
    padding: 5px;
-   list-style-type: circle; /* bullet points */
+   list-style-type: square; /* bullet points */
 }
 
