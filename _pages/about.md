@@ -34,7 +34,7 @@ I enjoy hiking, playing basketball and football during my free time.
 </div> -->
 
 
-<table>
+<table class="news-table">
   <tr>
     <td> <ul><li><span class="date">[Jan. 2023]</span></li></ul> </td>
     <td class="explanation"> Transferred to the Rutgers University. </td>
