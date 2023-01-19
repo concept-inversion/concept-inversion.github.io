@@ -23,11 +23,21 @@ I enjoy hiking, playing basketball and football during my free time.
 ### Recent News!!!
 ---
 
-- <span style="color:red"> [Jan. 2023]</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transferred to the Rutgers University for the rest of my PhD journey. 
-- <span style="color:red"> [Oct. 2022]</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:blue">**Honored to receive the 2022 IEEE TCHPC Student Travel Award for SC'22 conference.**</span>
+<div>
+  <ul class="bullets">
+    <li> <span class="date"> [Jan. 2023] </span> <span class="explanation">Transferred to the Rutgers University.</span> </li>
+    <li> <span class="date"> [Oct. 2022] </span> <span class="explanation">**Honored to receive the 2022 IEEE TCHPC Student Travel Award for SC'22 conference**.</span> </li>
+  </ul>
+</div>
+
+
 - <span style="color:red"> [Aug. 2022]</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at **SC'22** conference on accelerating ML-based micro-architecture simulation.
 - <span style="color:red"> [Sep. 2022]</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at **EuroSys'23** conference on temporal graph random walk.
 - <span style="color:red"> [Jul. 2022]</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at **SIGMETRIC'22** conference on ML-based architecture simulation. A great collaboration with Brookhaven National Lab.
+
+
+
+
 
 ---
 <p align="center">Github profile views</p>
