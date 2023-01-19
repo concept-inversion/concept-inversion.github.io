@@ -321,5 +321,8 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 .date {
     margin-right: 10px;
 }
-
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* set the minimum and maximum width for each column */
+}
 
