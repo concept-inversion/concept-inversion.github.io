@@ -23,10 +23,10 @@ I enjoy hiking, playing basketball and football during my free time.
 ### Recent News!!!
 ---
 
-<div>
+<div class="grid-container">
   <ul class="bullets">
     <li> <span class="date"> [Jan. 2023] </span> <span class="explanation">Transferred to the Rutgers University.</span> </li>
-    <li> <span class="date"> [Oct. 2022] </span> <span class="explanation">**Honored to receive the 2022 IEEE TCHPC Student Travel Award for SC'22 conference**.</span> </li>
+    <li> <span class="date"> [Oct. 2022] </span> <span class="explanation">Honored to receive the 2022 IEEE TCHPC Student Travel Award for SC'22 conference.</span> </li>
   </ul>
 </div>
 
