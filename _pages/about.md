@@ -23,7 +23,7 @@ I enjoy hiking, playing basketball and football during my free time.
 ### Recent News!!!
 ---
 
-<div class="grid-container">
+<!-- <div class="grid-container">
   <ul class="bullets">
     <li> <span class="date"> [Jan. 2023] </span> <span class="text-paragraph"> <p> Transferred to the Rutgers University.</p></span> </li>
     <li> <span class="date"> [Oct. 2022] </span> <span class="explanation"><p> Honored to receive the 2022 IEEE TCHPC Student Travel Award for SC'22 conference.</p></span> </li>
@@ -31,7 +31,31 @@ I enjoy hiking, playing basketball and football during my free time.
 	  <li> <span class="date"> [Sep. 2022] </span> <span class="explanation"> One paper accepted at EuroSys'23 conference on temporal graph random walk.</span> </li>
 	  <li> <span class="date"> [Jul. 2022] </span> <span class="explanation">One paper accepted at SIGMETRIC'22 conference on ML-based architecture simulation. A great collaboration with Brookhaven National Lab.</span> </li>
   </ul>
-</div>
+</div> -->
+
+
+<table>
+  <tr>
+    <td> <ul><li> </li></ul> </td>
+    <td> [Jan. 2023] Transferred to the Rutgers University. </td>
+  </tr>
+  <tr>
+    <td> <ul><li> </li></ul> </td>
+    <td> [Oct. 2022] Honored to receive the 2022 IEEE TCHPC Student Travel Award for SC'22 conference. </td>
+  </tr>
+  <tr>
+    <td> <ul><li> </li></ul> </td>
+    <td> [Aug. 2022] One paper accepted at SC'22 conference on accelerating ML-based micro-architecture simulation. </td>
+  </tr>
+  <tr>
+    <td> <ul><li> </li></ul> </td>
+    <td> [Sep. 2022] One paper accepted at EuroSys'23 conference on temporal graph random walk. </td>
+  </tr>
+  <tr>
+    <td> <ul><li> </li></ul> </td>
+    <td> [Jul. 2022] One paper accepted at SIGMETRIC'22 conference on ML-based architecture simulation. A great collaboration with Brookhaven National Lab. </td>
+  </tr>
+</table>
 
 
 ---
