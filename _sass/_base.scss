@@ -338,9 +338,12 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 table, th, td {
   border-collapse: collapse; /* remove lines from the table */
+  border:none;
 }
 
 td ul li {
-  list-style-type: circle; /* bullet points */
+   width: 200px;
+   padding: 5px;
+   list-style-type: circle; /* bullet points */
 }
 
