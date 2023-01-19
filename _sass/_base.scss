@@ -317,6 +317,8 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 .bullets {
    list-style-type: square;
+   display: flex;
+   flex-wrap: wrap;
 }
 .date {
     margin-right: 20px;
@@ -325,5 +327,12 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* set the minimum and maximum width for each column */
+}
+.text-paragraph {
+  width: 350px;
+  padding: 10px;
+  border: 1px solid #ccc;
+//   background-color: #f9f9f9;
+//   font-size: 14px;
 }
 
