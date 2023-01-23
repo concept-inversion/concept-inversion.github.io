@@ -321,7 +321,6 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
    flex-wrap: wrap;
 }
 .date {
-    margin-right: 2px;
    color: red;
 }
 .grid-container {
@@ -349,6 +348,6 @@ td ul li {
    list-style-type: square; /* bullet points */
 }
 
-.news-table {
-border:none; 
-}
+// .news-table {
+// border:none; 
+// }
