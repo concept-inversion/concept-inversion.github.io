@@ -322,7 +322,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 .date {
    color: red;
-// }
+}
 // .grid-container {
 //   display: grid;
 //   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* set the minimum and maximum width for each column */
@@ -340,6 +340,10 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 //   border-collapse: collapse; /* remove lines from the table */
 //   border:none;
 // }
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+tr:hover {background-color: coral;}
+
 
 // td ul li {
 //    border:none;
