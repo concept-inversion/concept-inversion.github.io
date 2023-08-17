@@ -5,7 +5,7 @@ excerpt: "<br/> Many applications require to learn, mine, analyze and visualize 
 
 [Paper](https://arxiv.org/abs/2009.09103)
 [Source code](https://github.com/concept-inversion/C-SAW) 
-[Presentation video] (https://www.youtube.com/watch?v=HuFPbHxHDX8) <br />
+[Presentation video](https://www.youtube.com/watch?v=HuFPbHxHDX8) <br />
 
  <img src='/images/csaw.png'>"
 collection: portfolio
