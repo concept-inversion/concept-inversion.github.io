@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/0IAPszdB8MMjPxNhFL/giphy.gif" width="160"/>
+</div>
+
 I am a PhD student in Computer Engineering at Rutgers University. My research interests includes GPU accelerated high performance computing, computer architecture, machine learning, and large graph analytics. I am honored to be advised by Professor [Hang Liu](https://asherliu.github.io/). I completed my undergraduate from Tribhuvan University, Nepal where my undergraduate research advisor was Professor [Subarna Shakya](http://doece.pcampus.edu.np/index.php/prof-dr-subarna-shakya/).
 You can see my publications in the `publication` tab or at [google scholar](https://scholar.google.com/citations?user=4jtGttIAAAAJ) for my most recent publications.
 
