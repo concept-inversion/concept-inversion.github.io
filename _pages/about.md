@@ -30,6 +30,7 @@ I enjoy hiking, playing basketball and football during my free time.
 
 <!-- <div class="grid-container">
   <ul class="bullets">
+  <li> <span class="date"> [Mar. 2024] </span> <span class="text-paragraph"> <p> TEA+, led by Dr. Chengying Huan, accepted at TACO 2024. </p></span> </li>
     <li> <span class="date"> [Jan. 2023] </span> <span class="text-paragraph"> <p> Transferred to the Rutgers University.</p></span> </li>
     <li> <span class="date"> [Oct. 2022] </span> <span class="explanation"><p> Honored to receive the 2022 IEEE TCHPC Student Travel Award for SC'22 conference.</p></span> </li>
 	  <li> <span class="date"> [Aug. 2022] </span> <span class="explanation">One paper accepted at SC'22 conference on accelerating ML-based micro-architecture simulation.</span> </li>
@@ -40,7 +41,11 @@ I enjoy hiking, playing basketball and football during my free time.
 
 
 <table class="news-table" cellpadding=0 cellspacing=0>
-  <tr>
+<tr>
+    <td> <ul><li><span class="date">[Mar. 2024]</span></li></ul> </td>
+    <td class="explanation"> TEA+, led by Dr. Chengying Huan, accepted at TACO 2024. </td>
+  </tr>  
+<tr>
     <td> <ul><li><span class="date">[Jan. 2023]</span></li></ul> </td>
     <td class="explanation"> Transferred to the Rutgers University. </td>
   </tr>
