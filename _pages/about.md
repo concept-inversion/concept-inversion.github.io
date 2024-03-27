@@ -40,7 +40,7 @@ I enjoy hiking, playing basketball and football during my free time.
 </div> -->
 
 
-<table class="news-table" cellpadding=0 cellspacing=0>
+<table class="news-table" cellpadding=0 cellspacing=0 padding-top=2>
 <tr>
     <td> <ul><li><span class="date">[Mar. 2024]</span></li></ul> </td>
     <td class="explanation"> TAO: Rethinking DL-based microarchitecture simulation is accepted at SIGMETRIC'24 journal (Acceptance rate ~11%).  A great collaboration with <a href="https://www.ayazdan.com/">Amir</a> from Google DeepMind. </td>
