@@ -43,7 +43,11 @@ I enjoy hiking, playing basketball and football during my free time.
 <table class="news-table" cellpadding=0 cellspacing=0>
 <tr>
     <td> <ul><li><span class="date">[Mar. 2024]</span></li></ul> </td>
-    <td class="explanation"> TEA+, led by Dr. Chengying Huan, accepted at TACO 2024. </td>
+    <td class="explanation"> TAO: Rethinking DL-based microarchitecture simulation is accepted at SIGMETRIC'24 journal (Acceptance rate ~11%).  A great collaboration with <a href="https://www.ayazdan.com/">Amir</a> from Google DeepMind. </td>
+  </tr>
+<tr>
+    <td> <ul><li><span class="date">[Mar. 2024]</span></li></ul> </td>
+    <td class="explanation"> <a href="https://dl.acm.org/doi/abs/10.1145/3652604">TEA+</a>, led by Dr. Chengying Huan, accepted at TACO'24 journal. </td>
   </tr>  
 <tr>
     <td> <ul><li><span class="date">[Jan. 2023]</span></li></ul> </td>
@@ -55,16 +59,16 @@ I enjoy hiking, playing basketball and football during my free time.
   </tr>
   <tr>
     <td> <ul><li><span class="date">[Aug. 2022]</span></li></ul> </td>
-    <td class="explanation"> One paper accepted at SC'22 conference on accelerating ML-based micro-architecture simulation. </td>
+    <td class="explanation"> <a href="https://dl.acm.org/doi/abs/10.5555/3571885.3571990">One paper</a> accepted at SC'22 conference on accelerating ML-based micro-architecture simulation. </td>
   </tr>
   <tr>
     <td> <ul><li><span class="date">[Sep. 2022]</span></li></ul> </td>
-    <td class="explanation"> One paper accepted at EuroSys'23 conference on temporal graph random walk. </td>
+    <td class="explanation">  <a href="https://dl.acm.org/doi/abs/10.1145/3552326.3567491">TEA</a> accepted at EuroSys'23 conference on temporal graph random walk. </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td> <ul><li><span class="date">[Jul. 2022]</span></li></ul> </td>
     <td class="explanation"> One paper accepted at SIGMETRIC'22 conference on ML-based architecture simulation. A great collaboration with Brookhaven National Lab. </td>
-  </tr>
+  </tr> -->
 </table>
 
 
