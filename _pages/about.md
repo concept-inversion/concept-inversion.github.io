@@ -74,7 +74,13 @@ I enjoy hiking, playing basketball and football during my free time.
 
 
 ---
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sx3u_UYxXwJn-vdFlpNlDLu8-tPU3UaPoXXVIHRVDgo&cl=ffffff&w=a"></script>
+
+<a href="https://clustrmaps.com/site/1brog"  title="Visit tracker">
+<img src="//www.clustrmaps.com/map_v2.png?d=sx3u_UYxXwJn-vdFlpNlDLu8-tPU3UaPoXXVIHRVDgo&cl=ffffff" /></a> 
+
 <p align="center">Github profile views</p>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=concept-inversion&label=Profile%20views&color=0e75b6&style=plastic" alt="concept-inversion" /> 
 </p>
+
