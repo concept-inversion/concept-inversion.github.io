@@ -1,7 +1,7 @@
 github_users:
   - concept-inversion
 
-repo_description_lines_max: 1
+repo_description_lines_max: 3
 
 github_repos:
   - concept-inversion/C-SAW
