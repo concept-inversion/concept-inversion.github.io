@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+TAO: Rethinking DL-based microarchitecture simulation is accepted at SIGMETRIC'24 journal (Acceptance rate ~11%).  A great collaboration with <a href="https://www.ayazdan.com/">Amir</a> from Google DeepMind.
