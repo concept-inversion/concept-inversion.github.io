@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a> PhD Candidate, Rutgers University
 
 profile:
   align: right
-  image: headshot.jpg
+  image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>535 CoRE</p>
