@@ -4,5 +4,9 @@ github_users:
 repo_description_lines_max: 1
 
 github_repos:
-  - concept-inversion/
+  - concept-inversion/C-SAW
+  - concept-inversion/H-INDEX_Triangle_Counting
+  - concept-inversion/GPU-accelerated-ML-simulation
+  - lingda-li/simnet
+  - wzbxpy/TRUST
 
