@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<img width="24" height="24" src="https://img.icons8.com/color/48/google-logo.png" alt="google-logo"/>  &nbsp; I will be joining Google for the summer as a student researcher working on ML methods to accelerate architecture simulation. 
+ I will be joining Google for the summer as a student researcher working on ML methods to accelerate architecture simulation.  &nbsp;
+ <img width="24" height="24" src="https://img.icons8.com/color/48/google-logo.png" alt="google-logo"/> 
