@@ -7,9 +7,9 @@ subtitle: <a href='#'>Affiliations</a> PhD Candidate, Rutgers University
 profile:
   align: right
   image: headshot.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>535 CoRE</p>
+    <p>Room 535, CoRE Building, </p>
     <p>Piscataway, NJ</p>
 
 news: true # includes a list of news items
