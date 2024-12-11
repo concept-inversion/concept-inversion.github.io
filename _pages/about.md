@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a>Affiliations</a> PhD Candidate, Rutgers University
+subtitle: <a>Affiliations:</a> PhD Candidate, Rutgers University
 
 profile:
   align: right
