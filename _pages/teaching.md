@@ -19,6 +19,8 @@ Also, we will learn how to introduce our research to others, possibly to people 
  
 
 
+Week 1: Had first pizza talk last week with a lab working on brain computer interface and it went really well. We got to know how our fundamental research intersects even when our work is in a much different domain. Some topics: Matrix factorization, traditional vs deep learning based pattern recognition, meaning of foundational model for BCI etc. 
+
 
 Fall 2024 (TA): Digital System Design
 Spring 2023 (TA): Programming Methodology I
