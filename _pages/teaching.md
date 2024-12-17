@@ -11,7 +11,9 @@ You are in a conference you do not know much people. How would you approach some
 
 That thought is the seed motivation behind cross-lab pizza talk. 
 
-The whole idea is to get some food, have a casual discussion, and learn something from each other as we work in close but different domains. Importantly, have fun!  
+As a PhD student, you mostly spend your earlier years spending the majority of your time in your own work and lab, with limited exposure/interactions with other researchers (at least me!). 
+
+The whole idea behind this talk is to get some food, have a casual discussion, learn how to introduce/discuss your research, and learn something from each other's work from different domains and how they intersect. Most importantly, have fun!  
 
 We are just keeping it to two labs to make the discussion more intimate. The topic of the discussion would be limited to see how our research intersects, and everybody learns something from each other related to their own research.  
 
