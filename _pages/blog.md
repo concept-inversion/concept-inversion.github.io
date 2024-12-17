@@ -32,9 +32,21 @@ pagination:
 
 <p>As a PhD student, much of your early years are spent focused on your own work and lab, with limited interaction with researchers outside your field (at least that’s been my experience!).</p>
 
-<p>This is the inspiration behind `ExchangeMeet`—a casual meetup for students from different labs, each working in diverse domains such as systems, machine learning, signal processing, or even a different field such as physics or mathematics. The more diverse, the better! By limiting the discussion to just two labs, we keep the conversation intimate and focused. `No slides, just verbal communication`.</p>
+<p>This is the inspiration behind `ExchangeMeet`—a casual meetup for students from different labs, each working in diverse domains such as systems, machine learning, signal processing, or even a different field such as physics or mathematics. The more diverse, the better! Limiting the discussion to just two labs keeps the conversation intimate and focused.</p>
 
-<p>The goal of this meetup is simple: get some food (usually pizza), have a relaxed discussion, practice introducing and discussing your research, and learn from each other’s work across different fields and how they might intersect. Most importantly, we aim to have fun! It’s also a safe space to practice your research pitch to people outside your domain. It can be incredibly valuable for networking at conferences and making connections in an informal setting.</p>
+<p>The goal of this meetup is simple: get some food (usually pizza), have a relaxed discussion about your research, and get feedback on how other people perceive your research and learn to explain better.</p>
+
+
+<ul>
+    <li>Practice pitching your research in a casual/safe setting (no judgements) to people with diverse backgrounds.</li>
+    <li>Network with other researchers.</li>
+    <li>Learn about each other's research and what's happening in their domain.</li>
+    <li>Learn to answer questions on conference presentations or interviews about your work.</li>
+    <li>See if your research intersects or can find collaboration opportunities.</li>
+    <li>Make learning fun. No slides, no preparation!</li>
+</ul>
+
+
   </div>
   {% endif %}
 
