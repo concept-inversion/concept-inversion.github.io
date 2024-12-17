@@ -18,10 +18,6 @@ pagination:
 
 
 
-#### "ExchangeMeet: Building bridges, one slice at a time"
-
-
-
 <div class="post">  
 
 {% assign blog_name_size = site.blog_name | size %}
