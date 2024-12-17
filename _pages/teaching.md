@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: Cross-lab Pizza Talk
+title: ExchangeMeet
 description: 
 nav: true
 nav_order: 6
 ---
+
+#### "ExchangeMeet: Building bridges, One slice at a time"
 
 You are in a conference you do not know much people. How would you approach someone, maybe who works in a different domain and strike up a conversation on a research topic? 
 
