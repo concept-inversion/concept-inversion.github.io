@@ -22,27 +22,28 @@ pagination:
 
 
 
-<div class="post">
+<div class="post">  
 
 {% assign blog_name_size = site.blog_name | size %}
-
-
+{% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
-    <p>
+    <h2>{{ site.blog_description }}</h2>
+    <p> 
     You're at a conference, surrounded by people you don't know. How do you approach someone, particularly someone working in a different domain, and start a conversation about research?
 
 As a PhD student, much of your early years are spent focused on your own work and lab, with limited interaction with researchers outside your field (at least that’s been my experience!).
 
 This is the inspiration behind `ExchangeMeet`—a casual meetup for students from different labs, each working in diverse domains such as systems, machine learning, signal processing, or even a different field such as physics or mathematics. The more diverse, the better! By limiting the discussion to just two labs, we keep the conversation intimate and focused. `No slides, just verbal communication`.
 
-The goal of this meetup is simple: get some food (usually pizza), have a relaxed discussion, practice introducing and discussing your research, and learn from each other’s work across different fields and how they might intersect. Most importantly, we aim to have fun! It’s also a safe space to practice your research pitch to people outside your domain. It can be incredibly valuable for networking at conferences and making connections in an informal setting. </p>
+The goal of this meetup is simple: get some food (usually pizza), have a relaxed discussion, practice introducing and discussing your research, and learn from each other’s work across different fields and how they might intersect. Most importantly, we aim to have fun! It’s also a safe space to practice your research pitch to people outside your domain. It can be incredibly valuable for networking at conferences and making connections in an informal setting.
+
+    </p>
   </div>
   {% endif %}
-
 
   <div class="tag-category-list">
     <ul class="p-0 m-0">
