@@ -32,17 +32,17 @@ pagination:
 
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
+    <p>
     You're at a conference, surrounded by people you don't know. How do you approach someone, particularly someone working in a different domain, and start a conversation about research?
 
 As a PhD student, much of your early years are spent focused on your own work and lab, with limited interaction with researchers outside your field (at least that’s been my experience!).
 
 This is the inspiration behind `ExchangeMeet`—a casual meetup for students from different labs, each working in diverse domains such as systems, machine learning, signal processing, or even a different field such as physics or mathematics. The more diverse, the better! By limiting the discussion to just two labs, we keep the conversation intimate and focused. `No slides, just verbal communication`.
 
-The goal of this meetup is simple: get some food (usually pizza), have a relaxed discussion, practice introducing and discussing your research, and learn from each other’s work across different fields and how they might intersect. Most importantly, we aim to have fun! It’s also a safe space to practice your research pitch to people outside your domain. It can be incredibly valuable for networking at conferences and making connections in an informal setting. 
+The goal of this meetup is simple: get some food (usually pizza), have a relaxed discussion, practice introducing and discussing your research, and learn from each other’s work across different fields and how they might intersect. Most importantly, we aim to have fun! It’s also a safe space to practice your research pitch to people outside your domain. It can be incredibly valuable for networking at conferences and making connections in an informal setting. </p>
   </div>
   {% endif %}
 
-{% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
   <div class="tag-category-list">
     <ul class="p-0 m-0">
