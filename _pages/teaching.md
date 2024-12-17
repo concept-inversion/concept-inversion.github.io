@@ -9,17 +9,14 @@ nav_order: 6
 
 #### "ExchangeMeet: Building bridges, One slice at a time"
 
-You are in a conference you do not know much people. How would you approach someone, maybe who works in a different domain and strike up a conversation on a research topic? 
+You are at a conference, and you do not know many people. How would you approach someone, maybe who works in a different domain and strike up a conversation on a research topic? 
 
-That thought is the seed motivation behind cross-lab pizza talk. 
+As a PhD student, you mostly spend your earlier years in your own work and lab, with limited exposure/interactions with other researchers (true, at least me!).
 
-As a PhD student, you mostly spend your earlier years spending the majority of your time in your own work and lab, with limited exposure/interactions with other researchers (at least me!). 
+That thought is the seed motivation behind ExchangeMeet, a meetup with students from diverse labs working in different domains, either systems, machine learning, signal processing, physics or maths. The more diverse, more better! Keeping it to just two labs make the discussion more intimate and focused.  
 
-The whole idea behind this talk is to get some food, have a casual discussion, learn how to introduce/discuss your research, and learn something from each other's work from different domains and how they intersect. Most importantly, have fun!  
 
-We are just keeping it to two labs to make the discussion more intimate. The topic of the discussion would be limited to see how our research intersects, and everybody learns something from each other related to their own research.  
-
-Also, we will learn how to introduce our research to others, possibly to people working on different domains, in a safe setting. This would be very valuable for meeting people in conferences where we can meet and make connections with people in informal settings.  
+The whole idea behind this meet is to get some food, have a casual discussion, learn how to introduce/discuss your research, and learn something from each other's work from different domains and how they intersect. Most importantly, have fun! Also, we will learn how to introduce our research to others, possibly to people working on different domains, in a safe setting. This would be very valuable for meeting people in conferences where we can meet and make connections with people in an informal setting.  
  
 
 
