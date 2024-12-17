@@ -7,16 +7,17 @@ nav: true
 nav_order: 6
 ---
 
-#### "ExchangeMeet: Building bridges, One slice at a time"
+#### "ExchangeMeet: Building bridges, one slice at a time"
 
-You are at a conference, and you do not know many people. How would you approach someone, maybe who works in a different domain and strike up a conversation on a research topic? 
+ 
 
-As a PhD student, you mostly spend your earlier years in your own work and lab, with limited exposure/interactions with other researchers (true, at least me!).
+You're at a conference, surrounded by people you don't know. How do you approach someone, particularly someone working in a different domain, and start a conversation about research?
 
-That thought is the seed motivation behind ExchangeMeet, a meetup with students from diverse labs working in different domains, either systems, machine learning, signal processing, physics or maths. The more diverse, more better! Keeping it to just two labs make the discussion more intimate and focused.  
+As a PhD student, much of your early years are spent focused on your own work and lab, with limited interaction with researchers outside your field (at least that’s been my experience!).
 
+This is the inspiration behind `ExchangeMeet`—a casual meetup for students from different labs, each working in diverse domains such as systems, machine learning, signal processing, or even a different field such as physics or mathematics. The more diverse, the better! By limiting the discussion to just two labs, we keep the conversation intimate and focused. `No slides, just verbal communication`.
 
-The whole idea behind this meet is to get some food, have a casual discussion, learn how to introduce/discuss your research, and learn something from each other's work from different domains and how they intersect. Most importantly, have fun! Also, we will learn how to introduce our research to others, possibly to people working on different domains, in a safe setting. This would be very valuable for meeting people in conferences where we can meet and make connections with people in an informal setting.  
+The goal of this meetup is simple: get some food (usually pizza), have a relaxed discussion, practice introducing and discussing your research, and learn from each other’s work across different fields and how they might intersect. Most importantly, we aim to have fun! It’s also a safe space to practice your research pitch to people outside your domain. It can be incredibly valuable for networking at conferences and making connections in an informal setting. 
  
 
 
