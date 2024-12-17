@@ -35,19 +35,19 @@ pagination:
 <p>This is the inspiration behind `ExchangeMeet`—a casual meetup for students from different labs, each working in diverse domains such as systems, machine learning, signal processing, or even a different field such as physics or mathematics. The more diverse, the better! Limiting the discussion to just two labs keeps the conversation intimate and focused.</p>
 
 <p>The goal of this meetup is simple: get some food (usually pizza), have a relaxed discussion about your research, and get feedback on how other people perceive your research and learn to explain better.</p>
-
+</div>
 
 <ul>
     <li>Practice pitching your research in a casual/safe setting (no judgements) to people with diverse backgrounds.</li>
     <li>Network with other researchers.</li>
     <li>Learn about each other's research and what's happening in their domain.</li>
-    <li>Learn to answer questions on conference presentations or interviews about your work.</li>
+    <li>Learn to answer/ask questions on presentations or interviews.</li>
     <li>See if your research intersects or can find collaboration opportunities.</li>
     <li>Make learning fun. No slides, no preparation!</li>
 </ul>
 
 
-  </div>
+  
   {% endif %}
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
