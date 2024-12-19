@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First_ExchangeMeet
-date: 2015-05-15 21:01:00
+title: First ExchangeMeet
+date: 2024-12-08
 description: Brain Computer Interface
 tags: formatting images
 categories: sample-posts
