@@ -1,9 +1,12 @@
 "SC":
   url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+  color: "green"
 
 "EuroSys":
   color: "green"
 
 "SIGMETRICS":
-  color: "#009f36"
+  color: "orange"
+
+"TACO":
+  color: "blue"
