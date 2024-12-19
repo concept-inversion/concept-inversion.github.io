@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a>Affiliations:</a> PhD Candidate, Rutgers University
 
@@ -9,8 +9,8 @@ profile:
   image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 535, CoRE Building, </p>
-    <p>Piscataway, NJ</p>
+    <p> Room 535, CoRE Building, </p>
+    <p> Piscataway, NJ</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
