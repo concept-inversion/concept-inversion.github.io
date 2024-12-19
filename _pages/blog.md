@@ -46,6 +46,7 @@ pagination:
     <li>Make learning fun. No slides, no preparation!</li>
 </ul>
 
+More details on motivation: [ExchangeMeet](/assets/pdf/ExchangeMeet.pdf) (My way of fun writing!)
 
   
   {% endif %}
