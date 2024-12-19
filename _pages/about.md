@@ -24,11 +24,11 @@ My research interests lie at the intersection of systems and ML/HPC applications
 
 I enjoy hiking and playing soccer in my free time.
 
-<hr style="width:40%">
+<hr align="left" style="width:50%">
 
-[ExchangeMeet: Diverse social between two labs from any field](/blog): Something I started in our lab.
+[ExchangeMeet:](/blog): Diverse social between two labs from any field, something I started in our lab.
 
-<hr style="width:40%">
+<hr align="left" style="width:50%">
 
 <b style='color:red;'>
 I will be graduating in May 2025, and I am in the job market for research positions in the industry or tenure-track faculty positions in academia. 
