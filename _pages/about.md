@@ -24,4 +24,14 @@ My research interests lie at the intersection of systems and ML/HPC applications
 
 I enjoy hiking and playing soccer in my free time.
 
+<hr>
+[ExchangeMeet: Diverse social between two labs from any field](/blog): Something I started in our lab.
 
+<hr>
+[CV](/assets/pdf/santosh_cv.pdf) &nbsp;&nbsp; [Resume](/assets/pdf/santosh_cv_academia.pdf) 
+
+<hr>
+
+<span style="background-color: #FFFF00">
+I will be graduating in May 2025, and I am in the job market for research positions in industry or tenure-track faculty positions in academia. 
+</span>
