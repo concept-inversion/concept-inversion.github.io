@@ -47,7 +47,8 @@ pagination:
 </ul>
 
 More details on motivation: [ExchangeMeet](/assets/pdf/ExchangeMeet.pdf) (My way of fun writing!)
-
+<br>
+If anyone is doing something similar or did start something like this, I would love to know how it went for you. Please reach out! 
   
   {% endif %}
 
