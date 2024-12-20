@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ML for Microarchitecture Performance Analysis
+title: ML for Microarchitecture Simulation
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: 
