@@ -1,10 +1,10 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image and giscus comments
+description: Scaling Graph Sampling and Random Walk for Extreme Scale Graph Learning 
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Systems for ML/HPC
 giscus_comments: true
 ---
 
