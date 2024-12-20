@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scalable Triangle Counting with GPUs
-description: with background image
+description: Graph Mining
 img: assets/img/12.jpg
 importance: 1
 category: Systems for ML/HPC
