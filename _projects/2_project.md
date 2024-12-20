@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: Scaling Graph Sampling and Random Walk for Extreme Scale Graph Learning 
+title: Scaling Graph Sampling and Random Walk for Extreme Scale Graph Learning
+description: Graph Learning 
 img: assets/img/3.jpg
 importance: 2
 category: Systems for ML/HPC
