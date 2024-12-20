@@ -4,7 +4,7 @@ title: Scalable Triangle Counting with GPUs
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Systems for ML/HPC
 related_publications: true
 ---
 
