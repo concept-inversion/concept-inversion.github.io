@@ -26,7 +26,7 @@ I enjoy hiking and playing soccer in my free time.
 
 <hr align="left" style="width:50%">
 
-[ExchangeMeet:](/blog) Diverse social between two labs from any field, something I started in our lab ([details/blog](/blog)).
+[ExchangeMeet:](/blog) Diverse social between two labs from any field, something I started in our lab ([learnings/blogs](/blog)).
 
 <hr align="left" style="width:50%">
 
