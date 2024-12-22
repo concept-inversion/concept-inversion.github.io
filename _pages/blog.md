@@ -49,7 +49,9 @@ pagination:
 More details on motivation: <a href="/assets/pdf/ExchangeMeet.pdf">ExchangeMeet</a> (My way of fun writing!)
 <br>
 If anyone is doing something similar or did start something like this, I would love to know how it went for you. Please reach out! 
-  
+ <hr>
+<strong>Also, if you would like to have an ExchangeMeet with our lab, please reach out! </strong>
+ <hr>
   {% endif %}
 
 <hr>
