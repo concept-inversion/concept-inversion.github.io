@@ -22,6 +22,10 @@ I am a PhD candidate in Computer Engineering at Rutgers University, supervised b
 
 My research interests lie at the intersection of systems and ML/HPC applications, focusing on full-circle innovation--using ML/HPC to design better systems (more current focus) and building optimized systems for ML/HPC applications. Notably, I have worked on developing accurate and reusable ML-based microarchitecture simulators while also accelerating and scaling these simulation models with hardware-software co-design, demonstrating the synergy between system optimization and ML/HPC.
 
+My long-term focus is on automating the design and optimization of computing stacks (programs, compilers, and microarchitecture), leveraging generative models for design generation and deep learning models for performance modeling/optimization.
+
+<hr align="left" style="width:50%">
+
 I enjoy hiking and playing soccer in my free time.
 
 <hr align="left" style="width:50%">
@@ -35,6 +39,7 @@ I enjoy hiking and playing soccer in my free time.
 </b>
 
 [Resume](/assets/pdf/santosh_cv.pdf) &nbsp;&nbsp; [CV](/assets/pdf/santosh_cv_academia.pdf) 
+
 
 
 
