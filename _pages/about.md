@@ -35,7 +35,7 @@ I enjoy hiking and playing soccer in my free time.
 <hr align="left" style="width:50%">
 
 <b style='color:red;'>
-[ I will be graduating in May 2025, and I am in the job market for research positions in the industry or tenure-track faculty positions in academia. ]
+[ I will be graduating in May 2025, and I am in the job market for tenure-track faculty positions in academia. ]
 </b>
 
 [Resume](/assets/pdf/santosh_cv.pdf) &nbsp;&nbsp; [CV](/assets/pdf/santosh_cv_academia.pdf) 
