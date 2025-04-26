@@ -35,8 +35,9 @@ I enjoy hiking and playing soccer in my free time.
 <hr align="left" style="width:50%">
 
 <b style='color:red;'>
-[ I am actively recruiting 2-3 highly motivated and dedicated PhD students to join my research group during the Fall 2025 and Spring 2026 cycle. These positions will be fully funded (tuition waiver + competitive stipend). My lab will focus on Machine Learning(ML)-driven computing systems, bridging high-performance computing, ML, and computer architecture.
+[ I am actively recruiting 2-3 highly motivated and dedicated PhD students to join my research group during the Fall 2025 and Spring 2026 cycle. These positions will be fully funded (tuition waiver + competitive stipend). My lab will focus on Machine Learning(ML)-driven computing systems, bridging high-performance computing, ML, and computer architecture. </b>
 
+<b style='color:red;'>
  If you have some background in one of the above areas and are interested in shaping the future of computing systems, please get in touch with me at santoshlab2025@gmail.com, including "Prospective PhD student-[Your name]" in the subject along with your CV, transcript, and your research interest. ]
 </b>
 
