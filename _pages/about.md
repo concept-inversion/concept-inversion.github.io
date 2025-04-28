@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate, Rutgers University
+subtitle: PhD Candidate, Rutgers University  / (Incoming Assistant Professor @ Bellini College of AI, Cybersecurity and Computing | USF)
 
 profile:
   align: right
