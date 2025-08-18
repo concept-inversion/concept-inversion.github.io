@@ -2,22 +2,22 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate, Rutgers University  / (Incoming Assistant Professor @ Bellini College of AI, Cybersecurity and Computing | USF)
+subtitle: Assistant Professor @ Bellini College of AI, Cybersecurity and Computing | USF)
 
 profile:
   align: right
   image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Room 535, CoRE Building </p>
-    <p> Piscataway, NJ</p>
+    <p> ENB 325 </p>
+    <p> Tampa, FL</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-I am a PhD candidate in Computer Engineering at Rutgers University, supervised by Prof. [Hang Liu](https://asherliu.github.io/). I completed my undergraduate from Tribhuvan University, Nepal where my undergraduate research advisor was Prof. [Subarna Shakya](https://www.linkedin.com/in/prof-dr-subarna-shakya-0b636b54/). During my PhD, I interned at Google, Lawerence Berkeley National Lab and Brookhaven National Lab. 
+I'm an Assistant Professor at Bellini College of AI, Cybersecurity, and Computing. 
+I completed my doctoral degree from Rutgers University in New Brunswick, NJ, and a master's degree from Stevens Institute of Technology in Hoboken, NJ where I advised by Prof. [Hang Liu](https://asherliu.github.io/). I received a Bachelor of Engineering in Computer Engineering from Tribhuvan University, Kathmandu, Nepal. During my PhD, I interned at Google, Lawerence Berkeley National Lab and Brookhaven National Lab. 
 
 
 My research interests lie at the intersection of systems and ML/HPC applications, focusing on full-circle innovation--using ML/HPC to design better systems (more current focus) and building optimized systems for ML/HPC applications. Notably, I have worked on developing accurate and reusable ML-based microarchitecture simulators while also accelerating and scaling these simulation models with hardware-software co-design, demonstrating the synergy between system optimization and ML/HPC.
